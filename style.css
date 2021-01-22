@@ -9,6 +9,10 @@
   --maingrey: rgb(216, 214, 214);
   --mainyellow: yellow;
 }
+body {
+  overflow-x: hidden;
+}
+
 .preloader {
   display: flex;
   justify-content: center;
